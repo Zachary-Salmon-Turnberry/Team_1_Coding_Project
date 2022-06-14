@@ -7,11 +7,11 @@ Proposed
 
 ## Context
 
-We need to develop REST API endpoints for web services being built by the web UI and mobile dev teams. This will allow them to accessdata needed by claim inspectors and field agents.
+We need to develop REST API endpoints for web services being built by the web UI and mobile dev teams. This will allow them to access data needed by claim inspectors and field agents. Although both teams are using different systems, they both should be able to access information using the same method.  
 
 ## Decision
 
-The API should be implemented with nodejs and express. This will allow data to be accessed in a platform agnostic manner (using HTTP requests).
+The API will be implemented with nodejs and express. This allows data to be accessed in a platform agnostic manner (using HTTP requests). 
 
 ## Consequences
 
