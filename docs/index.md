@@ -3,11 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
-<div class="mermaid">
-graph LR
-    A --- B
-    B-->C[Happy]
-    B-->D(Sad);
-</div>
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
