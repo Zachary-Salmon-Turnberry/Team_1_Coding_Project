@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-tags: [Mermaid]
+tags: [mermaid]
 mermaid: true
 ---
 
@@ -14,3 +14,10 @@ mermaid: true
       B-->D;
       C-->D;
 ```
+
+<div class="mermaid">
+graph LR
+    A --- B
+    B-->C[Happy]
+    B-->D(Sad);
+</div>
