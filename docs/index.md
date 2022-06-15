@@ -15,9 +15,11 @@ mermaid: true
       C-->D;
 ```
 
+<div class="home"><script src="https://unpkg.com/mermaid@9.1.2/dist/mermaid.min.js"></script>
 <div class="mermaid">
-graph LR
-    A --- B
-    B-->C[Happy]
-    B-->D(Sad);
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
 </div>
