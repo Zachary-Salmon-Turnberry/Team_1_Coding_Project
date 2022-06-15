@@ -17,3 +17,13 @@ This data regulation will be designed by referencing information from the Genera
 
 We must account for users in different regions of the world (North, Central, South America) and distribute fines if regulations are not met. 
 
+## Examples:
+Consent: Users must consent for their data to be used. The user must be notified about the app/services identity, which data will be collected/processed, how it will be used and the purpose for which its being collected. The user must also be informed that they can withdraw their consent at anytime. 
+
+Encryption: All data collected must be encrypted, if the service denies to encrypt user data then they will face fines/penalities. User data is converted into hashed code that can only be accessed by a key. This ensures that all user data is properly stored and secure during a possible attack. 
+
+Privacy and Fines: If a service were to violate any rules/regulations, they will be faced with penalities up to 20M Euros/Currency, 4% of their total global turnover. If the violation is less severe than described then the penalities consist of up to 10M Euros/Currency or 2% of their total global turnover. Data protection authories may inspect/investigate any illegal activites. 
+
+Right To Be Forgotten: Personal data must be erased once data is no longer needed for its original purpose or if the user has withdrawn their consent. The service is subject to erase all user data. Data may either be physically destoryed or permanently over-written using software. 
+
+
