@@ -17,7 +17,7 @@ This data regulation will be designed by referencing information from the Genera
 
 We must account for users in different regions of the world (North, Central, South America) and distribute fines if regulations are not met. 
 
-##Examples:
+## Examples:
 Consent: Users must consent for their data to be used. The user must be notified about the app/services identity, which data will be collected/processed, how it will be used and the purpose for which its being collected. The user must also be informed that they can withdraw their consent at anytime. 
 
 Encryption: All data collected must be encrypted, if the service denies to encrypt user data then they will face fines/penalities. User data is converted into hashed code that can only be accessed by a key. This ensures that all user data is properly stored and secure during a possible attack. 
