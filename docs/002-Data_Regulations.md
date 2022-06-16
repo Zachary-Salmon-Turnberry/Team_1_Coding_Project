@@ -22,15 +22,6 @@ Consent: Users must consent for their data to be used. The user must be notified
 
 Encryption: All data collected must be encrypted, if the service denies to encrypt user data then they will face fines/penalities. User data is converted into hashed code that can only be accessed by a key. This ensures that all user data is properly stored and secure during a possible attack. 
 
-<script src="https://unpkg.com/mermaid@9.1.2/dist/mermaid.min.js"></script>
-
-<div class="mermaid">
-
-
-graph TD
-    A[User Data] -->|Hash Process| B(Encrypted Data) 
-</div>
-
 Right To Be Forgotten: Personal data must be erased once data is no longer needed for its original purpose or if the user has withdrawn their consent. The service is subject to erase all user data. Data may either be physically destoryed or permanently over-written using software. 
 
 
