@@ -15,7 +15,7 @@ This data regulation will be designed by referencing information from the Genera
 
 ## Consequences
 
-We must account for users in different regions of the world (North, Central, South America) and distribute fines if regulations are not met. 
+We must account for users in different regions of the world (North, Central and South America) and distribute fines if regulations are not met. 
 
 ## Examples:
 Consent: Users must consent for their data to be used. The user must be notified about the app/services identity, which data will be collected/processed, how it will be used and the purpose for which its being collected. The user must also be informed that they can withdraw their consent at anytime. 
