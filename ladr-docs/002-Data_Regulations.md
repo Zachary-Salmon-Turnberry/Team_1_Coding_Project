@@ -1,4 +1,4 @@
-## 1. Data Regulaton
+## 1. Data Regulation
 
 
 ## Status
