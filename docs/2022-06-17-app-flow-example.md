@@ -22,15 +22,16 @@ flowchart TB
     subgraph M[POLICY LOOKUP]
         direction LR
         C[IC Opens iOS app and enters info]-->D[App sends HTTP GET request]
-        D-->F[Server processes request]
+        D-->F[Server fetches Mr. Bond's info from backend]
         F-->G[App loads policy]
     end
 
     subgraph N[ADD CLAIM]
         direction LR
-        H[IC enters claim info] -->J[App sends HTTP POST request] 
+        H[IC enters claim info] --> I[IC passes device to Mr. Bond for consent signature]
+        -->J[App sends HTTP POST request] 
         J --> K[Server processes request]
-        K-->L[Claim is created in database]
+        K-->L[Encrypted claim information is created in database]
     end
 
 
