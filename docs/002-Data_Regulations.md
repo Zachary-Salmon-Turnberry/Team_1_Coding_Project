@@ -1,3 +1,9 @@
+---
+parent: Overview
+categories: jekyll architecture
+title: "Data Regulation"
+nav_order: 1
+---
 ## 1. Data Regulation
 
 
