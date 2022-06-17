@@ -12,6 +12,14 @@ nav_order: 2
 
 ## Overview
 
+## Technology Used
+
+- Github Pages
+
+- Jekyll
+
+- Mermaid
+
 ## Problem
 
 - PDR Insurance want a next generation set of web services for their agents, claim inspectors, etc. out in the field. They have engaged a web UI team to make an angular app, and a mobile team to make two mobile apps (android/apple).
